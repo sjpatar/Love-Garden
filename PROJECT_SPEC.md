@@ -279,7 +279,7 @@ Test the actual rendered website in a browser at desktop and narrow mobile sizes
 - [x] Added the complete empty asset directory tree so licensed replacements can be dropped into stable paths.
 - [x] Browser-tested the opening transition, flower message popups, popup closing, final love letter, hidden heart, music fallback notification, and corrected a background-layer hit-area bug.
 - [x] Added the user-provided audio file as `assets/music/background.mp3` and wired the existing music controls to it.
-- [x] Applied current personalization: recipient `Chuani`, nickname/tag `Love`, and a completed love-letter message.
+- [x] Set the public copy to universal recipient wording (`You`) and address the apology letter to `Love`; personal copy remains editable in the configuration.
 - [x] Reworked butterfly visuals with layered wings, markings, antennae and varied flight; added a clickable flying apology butterfly and apology letter signed `Samar`.
 - [x] Removed the garden signature footer at the user's request.
 - [x] Refined welcome-card spacing/footer alignment and tightened butterfly centerlines after rendered visual inspection.
