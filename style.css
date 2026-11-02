@@ -14,3 +14,4 @@
 .flower--tulip.flower--white .tulip-back { fill:#d8c9b7; }
 .flower--tulip.flower--white .tulip-front { fill:#fff8ed; }
 .flower--tulip.flower--white .tulip-center { fill:#fffdf6; }
+.flower--tulip .stem { height:64px; }

@@ -70,6 +70,7 @@
 .flower--tulip.flower--yellow .tulip-front { fill:#f0cc69; }
 .flower--tulip.flower--white .tulip-back { fill:#d8c9b7; }
 .flower--tulip.flower--white .tulip-front { fill:#fff8ed; }
+  .flower--tulip .stem { height:52px; }
 @media (min-width: 701px) {
   .flowers--front .flower:nth-child(11) { left: 17% !important; top: 118px; bottom: auto; }
   .flowers--front .flower:nth-child(12) { left: 48% !important; top: 138px; bottom: auto; }
