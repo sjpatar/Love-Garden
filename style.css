@@ -15,3 +15,19 @@
 .flower--tulip.flower--white .tulip-front { fill:#fff8ed; }
 .flower--tulip.flower--white .tulip-center { fill:#fffdf6; }
 .flower--tulip .stem { height:64px; }
+.flower--tulip .leaf { bottom:20px; width:42px; height:18px; border-radius:100% 0 100% 0; transform:rotate(-48deg) skewX(-10deg); }
+.flower--tulip .leaf--right { right:14px; transform:scaleX(-1) rotate(-48deg) skewX(-10deg); }
+.flower--tulip .tulip-cup { fill:#e994ad; stroke:#fff9f3; stroke-width:1.2; stroke-linejoin:round; }
+.flower--tulip .tulip-back-left,
+.flower--tulip .tulip-back-right { fill:#c96888; }
+.flower--tulip .tulip-back-center { fill:#d97d98; }
+.flower--tulip .tulip-highlight { fill:none; stroke:#fffdf3a8; stroke-width:2; stroke-linecap:round; }
+.flower--tulip .tulip-highlight--center { stroke:#fffdf380; stroke-width:1.5; }
+.flower--tulip.flower--yellow .tulip-cup { fill:#f0cc69; }
+.flower--tulip.flower--yellow .tulip-back-left,
+.flower--tulip.flower--yellow .tulip-back-right { fill:#c79434; }
+.flower--tulip.flower--yellow .tulip-back-center { fill:#e0aa3d; }
+.flower--tulip.flower--white .tulip-cup { fill:#fff8ed; }
+.flower--tulip.flower--white .tulip-back-left,
+.flower--tulip.flower--white .tulip-back-right { fill:#d8c9b7; }
+.flower--tulip.flower--white .tulip-back-center { fill:#e9ddcf; }
